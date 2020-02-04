@@ -16,7 +16,7 @@
 - Reference
 
 ## Visulization
-流程图：Microsoft Visco, PPT
-图标包：
-web作图: Echarts, draw.io
-配色：happyhue
+- 流程图：Microsoft Visco, PPT
+- 图标包：
+- web作图: Echarts, draw.io
+- 配色：happyhue
