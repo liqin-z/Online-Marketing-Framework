@@ -1,5 +1,6 @@
 ### 2020 MCM Archive
 - Problem Chosen: C
+- Team: 2002600
 - Time: 2020/3/6-2020/3/10
 
 ### Framework
