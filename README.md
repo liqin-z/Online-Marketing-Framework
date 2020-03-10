@@ -9,7 +9,7 @@ Our Major Flowchart of PPA Marketing Framework
 Flow of Entity Analysis
 ![](https://github.com/graveszhang/2020-MCM/blob/master/imgs/entity_frame.png)
 
-### Visulization
+### Visualization
 ![](https://github.com/graveszhang/2020-MCM/blob/master/imgs/Rating_review.png)
 ![](https://github.com/graveszhang/2020-MCM/blob/master/imgs/regression.png)
 ![](https://github.com/graveszhang/2020-MCM/blob/master/imgs/Rating%20Inconsistency.png)
